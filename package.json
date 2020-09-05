@@ -1,0 +1,26 @@
+{
+  "name": "project-manager",
+  "version": "1.0.0",
+  "description": "To keep track of any kind of projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tweneboah/project-manager.git"
+  },
+  "keywords": [
+    "Node",
+    "js"
+  ],
+  "author": "Emmanuel Tweneboah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tweneboah/project-manager/issues"
+  },
+  "homepage": "https://github.com/tweneboah/project-manager#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
